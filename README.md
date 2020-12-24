@@ -1,2 +1,2 @@
 # TEST
-This is line of text
+This repository is open for all people.
