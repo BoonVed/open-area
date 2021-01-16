@@ -1,2 +1,2 @@
 # OPEN-AREA
-This repository is open for all people.
+This repository contain notes. It's content is free to use.
